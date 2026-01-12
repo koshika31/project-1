@@ -1,2 +1,3 @@
 # project-1
-koshika singh
+my name is koshika singh
+and my name is manas arora
